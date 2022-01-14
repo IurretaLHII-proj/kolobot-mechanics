@@ -4,7 +4,7 @@ Kolobot is a Educational Colaborative Robot designed by teachers of **Iurreta LH
 
 </br><img src="media/KOLOBOT BIBRAZO(perefiles alumnio).JPG" width="497">
 
-</br><img src="media/explosion-brazo" width="794">
+</br><img src="media/explosion-brazo.JPG" width="794">
 
 
 ## Web site
