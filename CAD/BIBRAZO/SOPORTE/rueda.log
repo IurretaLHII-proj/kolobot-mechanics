@@ -1,0 +1,63 @@
+Conversión de STEP a Solid Edge
+Fecha: miércoles,marzo 28,2018 04:12
+Archivo fuente: C:\Users\raulsa\Google Drive (iurretakoadernoa@gmail.com)\2017-18_KOLOBOT\BIBRAZO\SOPORTE\rueda.stp
+Autor: MiniTec Maschinenbau GmbH & Co.KG
+Organización: Desconocido
+Sistema de origen:  
+
+Equipo:
+Procesador: Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz
+Sistema operativo: Windows 8 Professional
+Memoria instalada: 7.95 GB
+
+Información del software
+Versión de Parasolid: 29.0.122
+Versión de PSBodyShop: 29.0.68
+Versión de Step Adapter: 2.0.152
+Versión de Solid Edge: 109.00.00.111 x64
+
+Opciones de importación de STEP
+Importar cuerpos facetados: Activado
+Importar cuerpos revisados: Desactivado
+Importar curvas: Activado
+Importar sin guardar: Activado
+Importar varios cuerpos como archivo de una pieza: Activado
+Importar superficies unidas: Activado
+Importar sólidos booleanos: Activado
+Crear operación base: Activado
+Simplificar geometría: Activado
+Importar curvas estampadas: Activado
+Importar unidad de disco: C:
+Importar superficies unidas: Activado
+Importar superficies: Activado
+Importar vía de acceso de salida: C:\Users\raulsa\Google Drive (iurretakoadernoa@gmail.com)\2017-18_KOLOBOT\BIBRAZO\SOPORTE
+Importar con vía de acceso de salida predeterminada habilitada: Activado
+Importar vía de acceso: 
+
+Convirtiendo a tipos de datos Parasolid...
++Empezar conjunto: 1
++Creado archivo de conjunto SE C:\Users\raulsa\Google Drive (iurretakoadernoa@gmail.com)\2017-18_KOLOBOT\BIBRAZO\SOPORTE\rueda_0.asm
+|--+Creado archivo de pieza SE C:\Users\raulsa\Google Drive (iurretakoadernoa@gmail.com)\2017-18_KOLOBOT\BIBRAZO\SOPORTE\2018_03_28__16-12-23-279.par
+|--+Creado archivo de pieza SE C:\Users\raulsa\Google Drive (iurretakoadernoa@gmail.com)\2017-18_KOLOBOT\BIBRAZO\SOPORTE\2018_03_28__16-12-23-279_0.par
+|--+Creado archivo de pieza SE C:\Users\raulsa\Google Drive (iurretakoadernoa@gmail.com)\2017-18_KOLOBOT\BIBRAZO\SOPORTE\2018_03_28__16-12-23-279_1.par
+|--+Creado archivo de pieza SE C:\Users\raulsa\Google Drive (iurretakoadernoa@gmail.com)\2017-18_KOLOBOT\BIBRAZO\SOPORTE\2018_03_28__16-12-23-279_2.par
+|--+Creado archivo de pieza SE C:\Users\raulsa\Google Drive (iurretakoadernoa@gmail.com)\2017-18_KOLOBOT\BIBRAZO\SOPORTE\2018_03_28__16-12-23-279_3.par
+|--+Creado archivo de pieza SE C:\Users\raulsa\Google Drive (iurretakoadernoa@gmail.com)\2017-18_KOLOBOT\BIBRAZO\SOPORTE\2018_03_28__16-12-23-279_4.par
+|--+Creado archivo de pieza SE C:\Users\raulsa\Google Drive (iurretakoadernoa@gmail.com)\2017-18_KOLOBOT\BIBRAZO\SOPORTE\2018_03_28__16-12-23-279_5.par
+|--+Creado archivo de pieza SE C:\Users\raulsa\Google Drive (iurretakoadernoa@gmail.com)\2017-18_KOLOBOT\BIBRAZO\SOPORTE\2018_03_28__16-12-23-279_6.par
+|--+Creado archivo de pieza SE C:\Users\raulsa\Google Drive (iurretakoadernoa@gmail.com)\2017-18_KOLOBOT\BIBRAZO\SOPORTE\rueda_1.par
+|--+Creado archivo de pieza SE C:\Users\raulsa\Google Drive (iurretakoadernoa@gmail.com)\2017-18_KOLOBOT\BIBRAZO\SOPORTE\rueda_2.par
+|--+Creado archivo de pieza SE C:\Users\raulsa\Google Drive (iurretakoadernoa@gmail.com)\2017-18_KOLOBOT\BIBRAZO\SOPORTE\rueda_3.par
+|--+Creado archivo de pieza SE C:\Users\raulsa\Google Drive (iurretakoadernoa@gmail.com)\2017-18_KOLOBOT\BIBRAZO\SOPORTE\rueda_4.par
+|--+Creado archivo de pieza SE C:\Users\raulsa\Google Drive (iurretakoadernoa@gmail.com)\2017-18_KOLOBOT\BIBRAZO\SOPORTE\rueda_5.par
+|--+Creado archivo de pieza SE C:\Users\raulsa\Google Drive (iurretakoadernoa@gmail.com)\2017-18_KOLOBOT\BIBRAZO\SOPORTE\2018_03_28__16-12-23-279_7.par
+|--+Creado archivo de pieza SE C:\Users\raulsa\Google Drive (iurretakoadernoa@gmail.com)\2017-18_KOLOBOT\BIBRAZO\SOPORTE\2018_03_28__16-12-23-279_8.par
+|--+Creado archivo de pieza SE C:\Users\raulsa\Google Drive (iurretakoadernoa@gmail.com)\2017-18_KOLOBOT\BIBRAZO\SOPORTE\2018_03_28__16-12-23-279_9.par
+|--+Creado archivo de pieza SE C:\Users\raulsa\Google Drive (iurretakoadernoa@gmail.com)\2017-18_KOLOBOT\BIBRAZO\SOPORTE\2018_03_28__16-12-23-279_10.par
++Piezas totales: 34
++Conjuntos: 0
++Cuerpos sólidos: 34
++Cuerpos de hoja: 0
++Terminar conjunto: 1
+Proceso de conversión completado
+Tiempo total requerido para convertir y posprocesar:00 : 00 : 04
