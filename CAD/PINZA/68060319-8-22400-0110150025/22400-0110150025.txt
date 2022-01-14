@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-06022015-089190";"";
+"REFERENCE";"22400-0110150025";"";
+"TraceParts.PartTitle";"22400 SPUR GEARS IN STEEL, MODULE 1 TOOTHING MILLED, STRAIGHT TEETH, ENGAGEMENT ANGLE 20°";"";
+"TraceParts.InstanceId";"10-06022015-0891901CNLJ95X2XL549O0FG55QJXOC";"";
+"DESIGN";"22400 SPUR GEARS IN STEEL, MODULE 1 TOOTHING MILLED, STRAIGHT TEETH, ENGAGEMENT ANGLE 20°";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"norelem";"";
+"TraceParts.PartVersion";"1.0.4";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"NORELEM:/TRACEPARTS/TP01/TP01005/TP01005002/TP01005002010/10-06022015-089190";"";
