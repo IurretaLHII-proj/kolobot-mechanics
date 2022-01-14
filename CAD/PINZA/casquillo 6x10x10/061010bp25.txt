@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"32-30042007-114099";"";
+"REFERENCE";"061010BP25";"";
+"TraceParts.PartTitle";"Casquillos de bronce sinterizado";"";
+"TraceParts.InstanceId";"32-30042007-1140991Z735KNPZPBZ4Y8FRVV5RJX94";"";
+"DESIGN";"Casquillos de bronce sinterizado";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"GGB";"";
+"TraceParts.PartVersion";"1.4.7";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"es";"";
+"TraceParts.ClassPath";"GGB:/F_GGB/GGB.040/GGB.040.020/32-30042007-114099";"";
