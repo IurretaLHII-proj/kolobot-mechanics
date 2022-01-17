@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"DIN 6340 - d 6.4";"";
+"MATERIAL";"Acero";"";
+"TraceParts.PartStatus";"Published";"";
+"DESIGN";"Arandela DIN 6340 - 6.4";"";
+"TraceParts.PartNumber";"10-11062001-204053";"";
+"TraceParts.PartLanguage";"es";"";
+"STANDARD";"DIN 6340";"";
+"TraceParts.InstanceId";"10-11062001-204053B34AK6QZ33Z8SZ6ANOF1F5JHZ";"";
+"TraceParts.PartTitle";"Arandela para dispositivos el afianzar con abrazadera";"";
+"TraceParts.PartVersion";"1.4.2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"DIN:/S_DIN/C21/C21.060/C21.060.030/10-11062001-204053";"";
+"TraceParts.PartStandardAcronym";"DIN";"";
