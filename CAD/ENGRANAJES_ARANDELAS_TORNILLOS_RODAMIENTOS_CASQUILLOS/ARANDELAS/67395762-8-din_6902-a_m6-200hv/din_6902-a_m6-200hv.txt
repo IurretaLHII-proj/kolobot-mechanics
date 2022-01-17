@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"DIN 6902 - A d M6 - 200 HV";"";
+"MATERIAL";"Acero";"";
+"TraceParts.PartStatus";"Published";"";
+"DESIGN";"Arandela DIN 6902 - A M6 - 200 HV";"";
+"TraceParts.PartNumber";"10-11062001-177486";"";
+"TraceParts.PartLanguage";"es";"";
+"STANDARD";"DIN 6902";"";
+"TraceParts.InstanceId";"10-11062001-1774862MCZR8JRGACATB5HUR4EEM9U8";"";
+"TraceParts.PartTitle";"Arandela (para los ensamblajes del tornillo y de la arandela) - Grado F";"";
+"NOTE";"Clase: 200 HV; grade: F";"";
+"TraceParts.PartVersion";"1.4.5";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"DIN:/S_DIN/C21/C21.060/C21.060.030/10-11062001-177486";"";
+"TraceParts.PartStandardAcronym";"DIN";"";
