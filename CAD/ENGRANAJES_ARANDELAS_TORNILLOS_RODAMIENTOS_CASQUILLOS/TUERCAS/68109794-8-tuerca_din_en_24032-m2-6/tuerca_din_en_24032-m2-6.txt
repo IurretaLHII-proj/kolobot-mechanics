@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"DIN EN 24032 - d M2 - 6";"";
+"MATERIAL";"Acero";"";
+"TraceParts.PartStatus";"Published";"";
+"DESIGN";"Tuerca hexagonal DIN EN 24032 - M2 - 6";"";
+"TraceParts.PartNumber";"10-11062001-198037";"";
+"TraceParts.PartLanguage";"es";"";
+"STANDARD";"DIN EN 24032";"";
+"TraceParts.InstanceId";"10-11062001-1980372LHMRPAUP4AFMLH03DA2UQ4ZQ";"";
+"TraceParts.PartTitle";"Tuerca hexagonal estilo 1 - Grados A y B";"";
+"NOTE";"Clase: 6; grade: A";"";
+"TraceParts.PartVersion";"1.4.1";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"DIN:/S_DIN/C21/C21.060/C21.060.020/10-11062001-198037";"";
+"TraceParts.PartStandardAcronym";"DIN";"";
