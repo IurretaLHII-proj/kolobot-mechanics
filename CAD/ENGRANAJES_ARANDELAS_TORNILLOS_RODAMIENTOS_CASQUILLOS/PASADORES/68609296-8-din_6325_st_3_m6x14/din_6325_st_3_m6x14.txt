@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"DIN 6325 ST - d1 3 - d M6 x l 14";"";
+"TraceParts.PartStandardAcronym";"DIN";"";
+"TraceParts.PartStatus";"Published";"";
+"DESIGN";"DIN6325 Parallel Pins, DIN 6325 ST 3 m6X14";"";
+"TraceParts.PartNumber";"32-31052013-057337";"";
+"TraceParts.PartLanguage";"en";"";
+"STANDARD";"DIN 6325";"";
+"TraceParts.InstanceId";"32-31052013-0573371YS2NKVTL2C5SFEKGDOMK2QJ8";"";
+"TraceParts.PartTitle";"DIN6325 Parallel Pins";"";
+"TraceParts.PartVersion";"1.2.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"DIN:/S_DIN/C21/C21.060/C21.060.050/32-31052013-057337";"";
