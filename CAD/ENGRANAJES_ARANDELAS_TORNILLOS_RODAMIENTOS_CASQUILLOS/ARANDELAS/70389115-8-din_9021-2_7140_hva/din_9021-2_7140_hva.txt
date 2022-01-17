@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"DIN 9021 - d1 2.7 - 140 HV - A";"";
+"MATERIAL";"Acero";"";
+"TraceParts.PartStatus";"Published";"";
+"DESIGN";"Arandela DIN 9021 - 2.7 - 140 HV - A";"";
+"TraceParts.PartNumber";"10-11062001-199180";"";
+"TraceParts.PartLanguage";"es";"";
+"STANDARD";"DIN 9021";"";
+"TraceParts.InstanceId";"10-11062001-199180AVEDXW5KR8C95FIO6597TECD0";"";
+"TraceParts.PartTitle";"Arandela larga - Grados A y C";"";
+"NOTE";"Clase: 140 HV; grade: A";"";
+"TraceParts.PartVersion";"1.4.8";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"DIN:/S_DIN/C21/C21.060/C21.060.030/10-11062001-199180";"";
+"TraceParts.PartStandardAcronym";"DIN";"";
