@@ -1,0 +1,17 @@
+﻿"Symbol";"Value";"Unit";
+"NOTE";"Clase: 8.8; grade: A";"";
+"REFERENCE";"DIN 912 - d M10 x p 1.25 - l 20 - 8.8";"";
+"MATERIAL";"Acero";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-11062001-154695";"";
+"STANDARD";"DIN 912";"";
+"DESIGN";"Tornillo Allen DIN 912 - M10 x 1.25 - 20 - 8.8";"";
+"TraceParts.InstanceId";"10-11062001-1546956296VDTHCD7J38TSKKF6J9X2D";"";
+"TraceParts.PartLanguage";"es";"";
+"TraceParts.PartTitle";"Tornillo Allen";"";
+"OMNICLASS23";"23.13.23.11.13";"";
+"TraceParts.PartVersion";"1.5.2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"DIN:/S_DIN/C21/C21.060/C21.060.010/10-11062001-154695";"";
+"TraceParts.PartStandardAcronym";"DIN";"";
