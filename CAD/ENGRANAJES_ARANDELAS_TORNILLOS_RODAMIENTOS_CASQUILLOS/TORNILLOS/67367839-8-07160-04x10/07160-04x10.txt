@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-15092011-059186";"";
+"REFERENCE";"07160-04X10";"";
+"TraceParts.PartTitle";"07160 SOCKET HEAD SCREWS  DIN 912/DIN EN ISO 4762";"";
+"TraceParts.InstanceId";"10-15092011-05918691GB80XJJGRFLGHC02A2IY6I4";"";
+"DESIGN";"07160 SOCKET HEAD SCREWS  DIN 912/DIN EN ISO 4762 ";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"norelem";"";
+"TraceParts.PartVersion";"1.3.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"NORELEM:/ROOT/C21/C21.060/C21.060.010/10-15092011-059186";"";
