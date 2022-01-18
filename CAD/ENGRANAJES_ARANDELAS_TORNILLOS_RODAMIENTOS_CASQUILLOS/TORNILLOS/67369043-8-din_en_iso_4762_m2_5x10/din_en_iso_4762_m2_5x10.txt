@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"DIN EN ISO 4762 - d M2,5 x l 10";"";
+"TraceParts.PartVersion";"1.1.6";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"32-01072013-079671";"";
+"STANDARD";"DIN EN ISO 4762";"";
+"DESIGN";"Hexagon socket head cap screws, DIN EN ISO 4762 - M2,5 x 10";"";
+"TraceParts.InstanceId";"32-01072013-0796718YCOTYXQD1WJADSV23UJ1CNHL";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartTitle";"Hexagon socket head cap screws";"";
+"OMNICLASS23";"23.13.23.11.13";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"DIN:/S_DIN/C21/C21.060/C21.060.010/32-01072013-079671";"";
+"TraceParts.PartStandardAcronym";"DIN";"";
