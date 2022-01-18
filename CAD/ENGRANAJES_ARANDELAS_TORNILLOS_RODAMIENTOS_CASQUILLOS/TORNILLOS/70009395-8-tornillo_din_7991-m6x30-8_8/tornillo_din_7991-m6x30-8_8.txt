@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"DIN 7991 - d M6 x l 30 - 8.8";"";
+"TraceParts.PartVersion";"1.5.1";"";
+"TraceParts.PartStatus";"Published";"";
+"DESIGN";"Tornillo de cabeza avellanada DIN 7991 - M6 x 30 - 8.8";"";
+"TraceParts.PartNumber";"10-11062001-206839";"";
+"MATERIAL";"Acero";"";
+"TraceParts.PartLanguage";"es";"";
+"STANDARD";"DIN 7991";"";
+"TraceParts.InstanceId";"10-11062001-206839AR82LG7E3FZOS3E6HHVGCVUPQ";"";
+"TraceParts.PartTitle";"Tornillo de cabeza avellanada, con hexágono interior - Grado A";"";
+"NOTE";"Clase: 8.8; grade: A";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"DIN:/S_DIN/C21/C21.060/C21.060.010/10-11062001-206839";"";
+"TraceParts.PartStandardAcronym";"DIN";"";
