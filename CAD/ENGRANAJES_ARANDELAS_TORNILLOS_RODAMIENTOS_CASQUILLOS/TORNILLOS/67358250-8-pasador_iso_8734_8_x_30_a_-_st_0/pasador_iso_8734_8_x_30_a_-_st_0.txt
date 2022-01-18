@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"ISO 8734 - d 8 x l 30 - A - St";"";
+"MATERIAL";"Acero totalmente endurecido (tipo A)";"";
+"TraceParts.PartStatus";"Published";"";
+"DESIGN";"Pasador paralelo ISO 8734 - 8 x 30 - A - St";"";
+"TraceParts.PartNumber";"10-08082008-117364";"";
+"TraceParts.PartLanguage";"es";"";
+"STANDARD";"ISO 8734";"";
+"TraceParts.InstanceId";"10-08082008-117364A4AW17V495L1NAWGNTV84EVCI";"";
+"TraceParts.PartTitle";"Pasadores paralelos de acero endurecido y acero inoxidable martensítico (pasadores de espiga)";"";
+"TraceParts.PartVersion";"1.2.2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"ISO:/S_ISO/C21/C21.060/C21.060.050/10-08082008-117364";"";
+"TraceParts.PartStandardAcronym";"ISO";"";
