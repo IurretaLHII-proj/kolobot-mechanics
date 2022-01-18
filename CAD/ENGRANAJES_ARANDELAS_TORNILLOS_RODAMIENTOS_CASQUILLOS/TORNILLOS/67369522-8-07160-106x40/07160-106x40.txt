@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-15092011-059186";"";
+"REFERENCE";"07160-106X40";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartTitle";"07160 SOCKET HEAD SCREWS  DIN 912/DIN EN ISO 4762";"";
+"TraceParts.InstanceId";"10-15092011-059186CH4L5FYMBN9079F5FU2DWLZ48";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"NORELEM:/F_NLM/F_NLM.NLM1/NLM.NLM1.0700/10-15092011-059186";"";
+"SUPPLIER";"norelem";"";
+"DESIGN";"07160 SOCKET HEAD SCREWS  DIN 912/DIN EN ISO 4762 ";"";
+"TraceParts.PartVersion";"1.3.0";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
