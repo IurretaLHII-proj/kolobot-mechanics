@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"ISO 4762 - d M2 x l 10";"";
+"MATERIAL";"Indefinido";"";
+"TraceParts.PartStatus";"Published";"";
+"DESIGN";"Tornillo de cabeza cilíndrica con hueco hexagonal ISO 4762 - M2 x 10";"";
+"TraceParts.PartNumber";"10-10052001-156187";"";
+"TraceParts.PartLanguage";"es";"";
+"STANDARD";"ISO 4762";"";
+"TraceParts.InstanceId";"10-10052001-1561877SXY8YJ67MS8J1W8HQKDSM4LO";"";
+"TraceParts.PartTitle";"Tornillo de cabeza cilíndrica con hueco hexagonal";"";
+"NOTE";"Clase: Indefinido";"";
+"TraceParts.PartVersion";"1.4.9";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"ISO:/S_ISO/C21/C21.060/C21.060.010/10-10052001-156187";"";
+"TraceParts.PartStandardAcronym";"ISO";"";
